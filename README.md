@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senunn
+- 👋 Hi, I’m @senura
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning "c"
 - 💞️ I’m looking to collaborate on ...
